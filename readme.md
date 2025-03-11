@@ -1,7 +1,9 @@
 reference: https://www.youtube.com/watch?v=15LCeh46sMs&t=859s
 
-browser-use - ai agnet
+browser-use - ai agent 
+
 pydantic - it convert the ai output into the model we needed, so that we can perform the validations
+
 google-ai-generaivelangiage
 langchain-openai
 
