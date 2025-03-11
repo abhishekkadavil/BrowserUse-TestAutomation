@@ -1,4 +1,7 @@
-reference: https://www.youtube.com/watch?v=15LCeh46sMs&t=859s
+reference: 
+https://docs.browser-use.com/customize/browser-settings
+https://github.com/browser-use/browser-use
+https://www.youtube.com/watch?v=15LCeh46sMs&t=859s
 
 browser-use - ai agent 
 
